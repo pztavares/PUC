@@ -1,4 +1,6 @@
-Este repositório possui um estudo que faz parte do MVP da sprint de "Análise de Dados e Boas Práticas", da PUC-Rio, em julho de 2025.
+Este repositório possui um estudo que faz parte do MVP da sprint de "Análise de Dados e Boas Práticas", da PUC-Rio, em julho de 2025. São armazenados dois arquivos:
+1) Genero5.csv - dataset com os dados
+2) MVP_PZT_Análise de Dados e Boas Práticas.ipynb - relatório com os códigos, gráficos e reflexões da pesquisadora sobre os dados apresentados
 
 O relatório apresenta um estudo sobre a igualdade de gênero, que vem sendo um assunto muito discutido ultimamente e é o objetivo de número 5 (ODS 5) dos Objetivos do Desenvolvimento Sustentável (ODS), propostos pela Organização das Nações Unidas (ONU). O ODS 5 propõe-se a “Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas”. Apesar dos avanços das mulheres na reinvindicação de seus direitos, ainda existem muitas barreiras a serem transpostas. 
 
